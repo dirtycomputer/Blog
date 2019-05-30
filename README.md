@@ -2,15 +2,21 @@
 
 <p>markdown是一种<strong>标记性语言</strong>，以纯文本编写而最终以<strong>HTML</strong>格式发布。即以MRKDOWN语法编写的语言向HTML的转化。（但是由此我就不禁想到了，应该也会有word转markdown的工具吧，手动滑稽~_~）</p>
 
+<hr>
+
 <h1 id="toc_1">创造者</h1>
 
 <p>1.Aaron Swartz
 2.John Gruber</p>
 
+<hr>
+
 <h1 id="toc_2">为什么使用</h1>
 
 <p>跨平台<br>
 易读易写</p>
+
+<hr>
 
 <h1 id="toc_3">主要语法</h1>
 
@@ -27,6 +33,8 @@
 <li>反斜杠 </li>
 <li>符号</li>
 </ul>
+
+<hr>
 
 <h3 id="toc_4">标题</h3>
 
@@ -55,6 +63,8 @@
 
 <p>前后要有空行，强制换行使用两个以上空格加回车。</p>
 
+<hr>
+
 <h3 id="toc_13">区块</h3>
 
 <p>在段落的每行或者第一行使用符号&gt;，还可以嵌套使用。   </p>
@@ -74,6 +84,8 @@
 </blockquote>
 </blockquote>
 
+<hr>
+
 <h3 id="toc_16">代码区</h3>
 
 <p>代码区要与普通段落之间有空行，代码区的建立是在每行加上4个空格或者一个制表符。</p>
@@ -92,6 +104,8 @@
     printf(&quot;Hello,Markdown.&quot;);
 }</code></pre></div>
 
+<hr>
+
 <h3 id="toc_19">强调</h3>
 
 <p>在强调内容两侧分别加上<code>*</code>或<code>_</code></p>
@@ -105,6 +119,8 @@
 
 <p><em>斜体</em> <em>斜体</em><br>
 <strong>粗体</strong> <strong>粗体</strong></p>
+
+<hr>
 
 <h3 id="toc_22">列表</h3>
 
@@ -136,6 +152,8 @@
 <li>第三项</li>
 </ol>
 
+<hr>
+
 <h3 id="toc_25">分割线</h3>
 
 <p>最常使用就是三个或以上<code>*</code>，还可以使用-和_。</p>
@@ -145,6 +163,8 @@
 ___</code></pre></div>
 
 <h5 id="toc_26">效果：</h5>
+
+<hr>
 
 <hr>
 
@@ -169,8 +189,10 @@ ___</code></pre></div>
 
 <h5 id="toc_31">参考式的效果：</h5>
 
-<p><a href="https://github.com/dirtycomputer">younghz的Markdown库1</a><br>
-<a href="https://github.com/dirtycomputer/Learning-materials">younghz的Markdown库2</a></p>
+<p><a href="https://github.com/dirtycomputer">本人的github主页</a><br>
+<a href="https://github.com/dirtycomputer/Learning-materials">本人github的一个项目</a></p>
+
+<hr>
 
 <h3 id="toc_32">图片</h3>
 
@@ -184,6 +206,8 @@ ___</code></pre></div>
 
 <p><img src="https://avatars1.githubusercontent.com/u/48406770?s=400&amp;u=4e2b3298d6f65f8bd228845d812b092890b62cc3&amp;v=4" alt="404图片找不到了"></p>
 
+<hr>
+
 <h3 id="toc_34">反斜杠</h3>
 
 <p>类似于C语言中实现反转义，使符号成为普通符号。</p>
@@ -194,6 +218,8 @@ ___</code></pre></div>
 
 <p>#哈哈</p>
 
+<hr>
+
 <h3 id="toc_36">符号&#39;`&#39;</h3>
 
 <p>起标记作用</p>
@@ -203,6 +229,8 @@ ___</code></pre></div>
 <h5 id="toc_37">效果：</h5>
 
 <p><code>Command+V</code></p>
+
+<hr>
 
 <h1 id="toc_38">都有谁在使用Markdown</h1>
 
@@ -216,8 +244,12 @@ ___</code></pre></div>
 <li>Wordpress</li>
 </ul>
 
+<hr>
+
 <h1 id="toc_39">关于Markdown的快捷键</h1>
 
 <p>博主也是写完这篇问了下度娘，结果还有快捷键！？！？  </p>
 
 <p><img src="https://t1.picb.cc/uploads/2019/05/28/giIvk8.png" alt="404 not found"></p>
+
+<hr>
