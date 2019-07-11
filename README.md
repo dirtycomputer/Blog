@@ -1,4 +1,5 @@
 <h1 id="toc_0">Markdown是什么</h1>
+<p>（PS：学会了Typora请自动略过本教程）555～我也是全学会了语法以后才知道有这种作弊app</p>
 
 <p>markdown是一种<strong>标记性语言</strong>，以纯文本编写而最终以<strong>HTML</strong>格式发布。即以MRKDOWN语法编写的语言向HTML的转化。（但是由此我就不禁想到了，应该也会有word转markdown的工具吧，手动滑稽~_~）</p>
 
